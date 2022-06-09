@@ -1,4 +1,4 @@
-.div {
+.content {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -15,5 +15,13 @@
    margin: 10px;
    height: 100%;
    width: 300px;
+
+}
+.post {
+   background-color: rgba(238, 238, 238, 0.993);
+   height: 100%;
+   padding: 0 5px 0 5px;
+   margin: 10px 10px 0 0;
+   border-radius: 10px;
 
 }
