@@ -1,0 +1,19 @@
+.comment {
+   display: flex;
+   flex-direction: column; 
+}
+.spanComments{
+   background-color: rgba(97, 237, 241, 0.993);
+   padding: 5px;
+   border: 2px solid;
+   border-radius: 10px;
+   margin-bottom: 5px;
+}
+
+.spanNoComments {
+   background-color: rgba(139, 139, 139, 0.993);
+   padding: 5px;
+   border: 2px solid;
+   border-radius: 10px;
+   margin-bottom: 5px;
+}

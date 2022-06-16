@@ -1,8 +1,27 @@
 .post {
-   background-color: rgba(238, 238, 238, 0.993);
-   height: 100%;
-   padding: 0 5px 5px 5px;
-   margin: 10px 10px 0 0;
-   border-radius: 10px;
-
+   display: flex;
+   flex-direction: column;  
 }
+.spanPosts{
+   background-color: rgba(206, 243, 105, 0.993);
+   padding: 5px;
+   border: 2px solid;
+   border-radius: 10px;
+}
+.spanNoPosts {
+   background-color: rgba(139, 139, 139, 0.993);
+   padding: 5px;
+   border: 2px solid;
+   border-radius: 10px;
+}
+.btn{
+   background-color: rgb(52, 253, 243);
+   font-size: 11px;
+   border-radius: 10px;
+   border: 1px solid;
+   margin-left: 10px;
+   padding: 5px ;
+   display: flex;
+   margin: 5px 0 0 0;
+}
+
